@@ -1,0 +1,22 @@
+{
+  "name": "renovate-volta-nodejs-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keimlink/renovate-volta-nodejs-update.git"
+  },
+  "author": "Markus Zapke-Gründemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keimlink/renovate-volta-nodejs-update/issues"
+  },
+  "homepage": "https://github.com/keimlink/renovate-volta-nodejs-update#readme",
+  "volta": {
+    "node": "12.16.1"
+  }
+}
