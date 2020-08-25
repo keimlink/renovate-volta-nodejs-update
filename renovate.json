@@ -3,11 +3,11 @@
     "config:base",
     "default:automergeDigest",
     "default:semanticCommitsDisabled",
-    "docker:enableMajor"
+    "docker:enableMajor",
+    "docker:pinDigests"
   ],
   "labels": ["renovate"],
   "npm": {
     "postUpdateOptions": ["npmDedupe"]
-  },
-  "pinDigests": true
+  }
 }
