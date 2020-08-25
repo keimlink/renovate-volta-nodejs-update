@@ -4,5 +4,9 @@
     "default:automergeDigest",
     "default:semanticCommitsDisabled",
     "docker:enableMajor"
-  ]
+  ],
+  "labels": ["renovate"],
+  "npm": {
+    "postUpdateOptions": ["npmDedupe"]
+  }
 }
