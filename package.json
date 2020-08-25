@@ -19,7 +19,8 @@
   "volta": {
     "node": "12.16.1"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "prettier": "1.19.1"
   }
 }
