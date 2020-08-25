@@ -8,5 +8,6 @@
   "labels": ["renovate"],
   "npm": {
     "postUpdateOptions": ["npmDedupe"]
-  }
+  },
+  "pinDigests": true
 }
