@@ -20,6 +20,6 @@
     "node": "12.16.1"
   },
   "dependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "1.19.1"
   }
 }
