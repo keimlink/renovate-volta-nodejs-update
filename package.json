@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/keimlink/renovate-volta-nodejs-update#readme",
   "volta": {
-    "node": "12.16.1"
+    "node": "14.18.1"
   },
   "dependencies": {},
   "devDependencies": {
